@@ -2,6 +2,8 @@
    PDF->https://prasannashrestha011.github.io/PL_MatchPrediction_StatisticalModels/paper.pdf
 
    Notebook->https://prasannashrestha011.github.io/PL_MatchPrediction_StatisticalModels/epl_match_outcome_prediction_.html
+
+   Dataset->https://www.football-data.co.uk/englandm.php
 # Upcoming EPL Fixtures Predictions
   ## 18 & 19 october fixtures
 
