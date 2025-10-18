@@ -21,7 +21,7 @@
 | Fulham           | Arsenal         | Away              | 30.49%  | 33.67%  | 35.83%  | **Arsenal**     |
 | Tottenham        | Aston Villa     | Away              | 28.69%  | 30.55%  | 40.76%  | **Tottenham**   |
 | Liverpool        | Man United      | Home              | 65.16%  | 24.33%  | 10.51%  | **Liverpool**   |
-| West Ham         | Brentford       | Away              | 27.38%  | 32.98%  | 39.64%  | **Draw**        |
+| West Ham         | Brentford       | Away              | 27.38%  | 32.98%  | 39.64%  | **Brentford**        |
 
 ## Random Forest Predictions
 
